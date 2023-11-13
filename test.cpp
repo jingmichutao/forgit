@@ -5,5 +5,5 @@ int main() {
     cout<<"Welcome to learn Git!"<<endl;
     cout<<"Git is a distributed version control system."<<endl;
     cout<<"Git is free software."<<endl;
-    cout<<"Creating a new branch is quick."<<endl;
+    cout<<"Creating a new branch is quick AND simple."<<endl;
 }
